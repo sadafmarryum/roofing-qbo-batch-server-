@@ -1,11 +1,11 @@
 {
-  "name": "qbo-batch-server",
+  "name": "roofing-qbo-batch-server",
   "version": "1.0.0",
   "description": "Browserbase + Stagehand server for QBO invoice batching",
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/qbo-batch-server.js"
+    "start": "node dist/roofing-qbo-batch-server.js"
   },
   "dependencies": {
     "@browserbasehq/stagehand": "latest",
